@@ -3,6 +3,7 @@ import java.util.Random;
 
 //улучшенная рулетка
 // не работает
+// при запуске не одно число не работате 
 public class Main {
 
     public static void main(String[] args) {
